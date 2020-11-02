@@ -1,5 +1,5 @@
 # CRI-ENDLESS_team
-Open Science Project
+AIRE M1 Open Science Project
 
 
 Team members: 
