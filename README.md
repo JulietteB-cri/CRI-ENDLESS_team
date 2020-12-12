@@ -13,9 +13,10 @@ Team members:
 
 -  Yunus Emre CELIK (DiSc) https://orcid.org/0000-0001-5906-7814
 
+-  Mélusine BLONDEL (LeSc) https://orcid.org/0000-0001-6757-1594 
+
 -  Ahmed NASRI (LeSc)
 
--  Mélusine BLONDEL (LeSc) https://orcid.org/0000-0001-6757-1594 
 
 
 
