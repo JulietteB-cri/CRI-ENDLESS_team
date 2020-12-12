@@ -26,7 +26,7 @@ Timeline of the project:
 
 2/12/2020: release of the introductory survey DONE 
 
-13/12/2020: participation to the introductory survey are closed
+13/12/2020: participation to the introductory survey are closed 
 
 14/12/2020: release of the 1st weekly survey 
 
