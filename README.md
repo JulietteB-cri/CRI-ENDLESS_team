@@ -32,6 +32,6 @@ Timeline of the project:
 
 21/12/2020: release of the 2nd weekly survey DONE
 
-28/12/2020: release of the 3rd weekly survey 
+28/12/2020: release of the 3rd weekly survey DONE 
 
 4/01/2021: release of the last survey 
