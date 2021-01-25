@@ -34,6 +34,12 @@ Timeline of the project:
 
 28/12/2020: release of the 3rd weekly survey DONE 
 
-4/01/2021: release of the last survey 
+4/01/2021: release of the last survey DONE
 
-27/01/2021: final report!
+27/01/2021: final report! DONE
+
+
+..............................
+
+
+All survey results can be found here: https://docs.google.com/spreadsheets/d/1Q4vxfgXWxovGUbG4ztGCZdQeu-oUKZJL663kQkLBJQ8/edit?usp=sharing 
