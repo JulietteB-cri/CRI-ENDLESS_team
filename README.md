@@ -1,5 +1,8 @@
 # CRI-ENDLESS_team
-AIRE M1 Open Science Project
+
+The main goal of this project is to evaluate the impact of the lockdown on students' Sleeping Quality (SQ for short) and the influence of different parameters such as stress level and sociability. We aim to define how SQ has been affected and give insights on how to improve it in similar future situations.
+
+This project is for AIRE M1 Open Science Course
 https://docs.google.com/document/d/1xji9vKt33fxUo6anGwv4k28Uf-YDk_3CpUoZGKgd8zg/edit#
 
 
